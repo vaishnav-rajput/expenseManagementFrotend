@@ -1,0 +1,8 @@
+/* write your css here */
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.add-expense-dialog .MuiDialog-paper {
+    height: auto; 
+    max-height: 80vh; 
+  }
+  
